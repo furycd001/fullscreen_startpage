@@ -1,6 +1,6 @@
 # Fullscreen Startpage.
 
-## Minimal startpage containing a single button to open list of most frequent links. Links are manually edited in html file....
+## Minimal startpage containing a single button to open list of most frequent sites. Links are manually edited in html file....
 
 >Main Window
 
